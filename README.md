@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Pran Kishor Mahto, a final-year student at IIT Kharagpur with a passion for building scalable and efficient applications.</p>
+<p align="left">I'm Pran Kishor Mahto, a recent graduate from IIT Kharagpur with a passion for building scalable and efficient applications.</p>
 
 ###
 
